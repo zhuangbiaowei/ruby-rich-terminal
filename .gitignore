@@ -1,1 +1,49 @@
-.DS_Store
+# Rich Ruby gem specific
+.1024*
+!.1024
+.breakpoints
+
+# RubyGem
+*.gem
+*.rbc
+/.config
+/coverage/
+/InstalledFiles
+/pkg/
+/spec/reports/
+/spec/examples.txt
+/test/tmp/
+/test/version_tmp/
+/tmp/
+
+# YARD artifacts
+/.yardoc/
+/_yardoc/
+/doc/
+/rdoc/
+
+# Have editor/IDE/OS specific files you need to ignore?
+
+# rbenv
+.ruby-version
+
+# Bundler
+/vendor/bundle
+/.bundle/
+
+# RSpec
+.rspec_status
+
+# Logs
+*.log
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Environment variables
+.env
+.env.local
+.env.*.local
